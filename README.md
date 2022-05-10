@@ -13,7 +13,7 @@
   <img align="center" alt="Joel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-<div style="display: block">
+<div align="center">
   <a href="https://github.com/joeyandrader">
   <img style="display: inline" height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=joeyandrader&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  style="display: inline" height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyandrader&layout=compact&langs_count=7&theme=dracula"/>
