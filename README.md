@@ -1,5 +1,4 @@
 ### Olá, Sou Joel Andrade
-  <img align="right" width="550px" style="margin-right: 3px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="PC Dev" />
 🔷 Estagiando em Banco de dados<br>
 🔷 Cursando sistema da informação<br>
 🔷 Estudando e aprimorando as linguagens atuais!
