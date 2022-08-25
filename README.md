@@ -1,8 +1,8 @@
 ### Olá, Sou Joel Andrade
 
-🔷 Estagiando em Banco de dados<br>
+🔷 Todo dia é um dia perfeito para aprender novas tecnologias!<br>
 🔷 Cursando sistema da informação<br>
-🔷 Estudando e aprimorando as linguagens atuais!
+
 
 <br>
 
