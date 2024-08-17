@@ -1,6 +1,6 @@
 ### Olá, Sou Joel Andrade
 
-🔷 Todo dia é um dia perfeito para aprender novas tecnologias!<br>
+🔷 Atualmente trabalho na area de desenvolvimento Back-end com C# .NET como Pleno<br>
 🔷 Cursando sistema da informação<br>
 
 
